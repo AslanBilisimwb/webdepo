@@ -1,0 +1,23 @@
+SCRIPTMARKETIM V1.02
+Scripti satın aldığınız için teşekkür ederiz.
+Kendi güvenliğiniz ve müşterilerinizin güvenliği için warez yazılımlardan kaçınınız.
+
+KURULUM
+
+1-Veri tabanınızı oluşturun.
+2-Dosyaları sunucunuza yükleyin.
+3-http://websiteniz.com/install.php adresine giderek kurulumu başlatın.
+4-Kurulumda web site adresinizi SSL var ise https://...........com, SSL yok ise http://...........com şeklinde girin. 
+Adresin sonunda / olmamasına dikkat edin.
+5-Kurulumdan sonra install.sql ve install.php dosyalarını silin.
+6-websiteniz.com/admin adresine giderek admin email ve şifrenizi değiştirin.
+7-Admin/Ayarlar menüsüne giderek siteniz için gerekli ayarları yapın. 
+8-Ayarlarda email ve reCHAPTCHA önemlidir.
+9-Shopierden ödeme alabilmek için önce sitenizi hazırlayın sonra shopiere müracaatınızı yapın.
+10-Shopierden aldığınız Api kullanıcı ve Api şifresini admin panelden gerekli alanlara girin.
+11-Herhangi bir sorunda info@aslanbilisim.web.tr adresine yazabilirsiniz.
+
+Hayırlı olsun, Bol kazançlar dilerim
+Aslan Bilisim
+Email: info@aslanbilisim.web.tr
+GSM/Whatsapp: 05331606337
